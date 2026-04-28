@@ -1,0 +1,218 @@
+{
+   "projects": [
+      {
+         "name": "Boutique en ligne",
+         "url": "https://ball-shop.vercel.app",
+         "thumbnail": "ball_shop-thumbnail.png",
+         "technologies": [
+            {
+               "name": "React",
+               "image": "react-logo.png"
+            },
+            {
+               "name": "Express",
+               "image": "express-logo.png"
+            },
+            {
+               "name": "Node.js",
+               "image": "nodejs-logo.png"
+            },
+            {
+               "name": "Mysql",
+               "image": "mysql-logo.png"
+            },
+            {
+               "name": "Linux",
+               "image": "linux-logo.png"
+            },
+            {
+               "name": "Nginx",
+               "image": "nginx-logo.png" 
+            },
+            {
+               "name": "Vercel",
+               "image": "vercel-logo.png"
+            }
+         ],
+         "summary": "E-commerce de vente de pelotes en mohair.",
+         "description": {
+            "Front": [
+               {
+                  "title": "Navigation",
+                  "value": "React-router-dom"
+               },
+               {
+                 "title": "State global",
+                 "value": "redux toolkit"
+               },
+               { 
+                  "title": "Client HTTP",
+                  "value": "Axios"
+               },
+               { 
+                  "title": "UI and skills",
+                  "value": "CSS Module, grid, flexbox, mobile first"
+               },
+               {
+                  "title": "Déploiement",
+                  "value": "Vercel"
+               }
+            ],
+            "Back": [
+               {
+                  "title": "Infrastruture",
+                  "value": "API RESTful avec express"
+               },
+               {
+                  "title": "Base de données",
+                  "value": "Mysql, phpMyadmin"
+               },
+               {
+                  "title": "Panel admin",
+                  "value": "CRUD application"
+               },
+               {
+                  "title": "Authentification",
+                  "value": "JWT Token"
+               },
+               {
+                  "title": "mailling",
+                  "value": "nodemailer"
+               },
+               {
+                  "title": "Sécurité",
+                  "value": "token, bcrypt, ratelimit"
+               },
+               {
+                  "title": "Synchronisation des données",
+                  "value": "socket.io"
+               },
+               {
+                  "title": "Paiement",
+                  "value": "Stripe"
+               },
+
+               {
+                  "title": "Déploiement",
+                  "value": "VPS linux, Nginx reverse proxy"
+               }
+
+
+            ]
+         }
+      },
+      {
+         "name": "Watch dasboard",
+         "url": "https://lulutor.github.io/Shop.org-AngulatJS-/",
+         "thumbnail": "dashbord-thumbnail.png",
+         "technologies": [
+            {
+               "name": "Angular",
+               "image": "angular-logo.png"
+            },
+            {
+               "name": "Material CSS",
+               "image": "material-logo.png"
+            }
+         ],
+         "summary": "Dashbord pour e-commerce.",
+         "description": {
+            "Front": [
+               {
+                  "title": "Interface",
+                  "value": "ng-module"
+               }  
+            ]
+         }
+      },
+      {
+         "name": "Filmothèque",
+         "url": "https://deepwwwave.github.io/filmotheque_requete_ajax/",
+         "thumbnail": "filmotheque-thumbnail.png",
+         "technologies": [
+            {
+               "name": "Javascript",
+               "image": "javascript-logo.png"
+            },
+            {
+               "name": "Jquery",
+               "image": "jquery-logo.png"
+            },
+            {
+               "name": "HTML",
+               "image": "html-logo.png"
+            },
+            {
+               "name": "CSS",
+               "image": "css-logo.png"
+            }
+         ],
+         "summary": "Documentation et actus cinéma.",
+         "description": {
+            
+            "API Request": [
+               {
+                  "title": "Ajax",
+                  "value": "Moovies DB"
+               }     
+            ]
+         }
+      },
+      {
+         "name": "site vitrine",
+         "url": "https://lulutor.github.io/losoProject/",
+         "thumbnail": "site_vitrine-thumbnail.png",
+         "technologies": [
+            {
+               "name": "Bootstrap",
+               "image": "bootstrap-logo.png"
+            },
+            {
+               "name": "HTML",
+               "image": "html-logo.png"
+            },
+            {
+               "name": "CSS",
+               "image": "css-logo.png"
+            }
+         ],
+         "summary": "Site vitrine.",
+         "description": {
+            "Front": [
+               {
+                  "title": "Animation",
+                  "value": "animate.css"
+               }  
+            ]
+         }
+      },
+      {
+         "name": "Tools & Parallaxe",
+         "url": "https://lulutor.github.io/materialize/",
+         "thumbnail": "parallaxe-thumbnail.png",
+         "technologies": [
+            {
+               "name": "Javascript",
+               "image": "javascript-logo.png"
+            },
+            {
+               "name": "HTML",
+               "image": "html-logo.png"
+            },
+            {
+               "name": "Material CSS",
+               "image": "material-logo.png"
+            }
+         ],
+         "summary": "Boîte à outils.",
+         "description": {
+            "Front": [
+               {
+                  "title": "Effet",
+                  "value": "Parallaxe"
+               }
+            ]
+         }
+      }
+   ]
+}
