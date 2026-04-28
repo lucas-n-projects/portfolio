@@ -69,7 +69,7 @@ export default function Profil() {
                <img className="w-12" src="images/linkedin-logo.png" alt="linkedin" />
                <p className="mt-2 text-center">Linkedin</p>
             </Link>
-            <Link to="images/CV Lucas NANDAN _Developpeur.pdf" target="_blank">
+            <Link to="images/cv.pdf" target="_blank">
                <img className="w-12" src="images/cv-logo.png" alt="linkedin" />
                <p className="mt-2 text-center">CV</p>
             </Link>
