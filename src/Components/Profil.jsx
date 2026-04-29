@@ -61,11 +61,11 @@ export default function Profil() {
          </p>
          <h3 className="text-xl mt-12 p-1 mb-4 text-center rounded-md  border border-cyan-500 text-slate-white w-40">Social</h3>
          <section className=" flex space-x-16 mt-12 mb-7">
-            <Link to="https://github.com/Deepwwwave" target="_blank">
+            <Link to="https://github.com/lucas-n-projects" target="_blank">
                <img className="w-12" src="images/github-logo.png" alt="github" />
                <p className="mt-2 text-center">Github</p>
             </Link>
-            <Link to="https://www.linkedin.com/in/lucasnandan/" target="_blank">
+            <Link to="https://www.linkedin.com/in/lucasnandan" target="_blank">
                <img className="w-12" src="images/linkedin-logo.png" alt="linkedin" />
                <p className="mt-2 text-center">Linkedin</p>
             </Link>
