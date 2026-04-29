@@ -56,7 +56,7 @@ export default function Profil() {
 
          <TechnologyImages url={url} exceptions={exceptions} />
          <p className="italic m-8 text-justify  whitespace-pre-wrap md:mx-28 text-xl	">
-         Développeur passionné et motivé, je me distingue par mon goût pour l'optimisation, la créativité, et l'apprentissage continu. Ayant toujours évolué dans le milieu de l'informatique, je suis un professionnel posé et réfléchi, capable de mener à bien des projets innovants et efficaces.
+         Intégrateur web passionné par la création d’interfaces propres et fonctionnelles, je suis attentif à la qualité du code et aux bonnes pratiques. J’aime progresser par la pratique et améliorer continuellement mon travail. Curieux et motivé, je cherche à monter en compétence et à contribuer progressivement à la qualité des projets.
 
          </p>
          <h3 className="text-xl mt-12 p-1 mb-4 text-center rounded-md  border border-cyan-500 text-slate-white w-40">Social</h3>
